@@ -1,0 +1,34 @@
+body {
+    background-color: blanchedalmond;
+}
+
+
+.input-group {
+    margin-right: 25px;
+    margin-left: 10px;
+}
+
+.input-group-text {
+    background-color: black;
+    color: rgb(180, 180, 180);
+}
+
+.btn-reset {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    margin-right: 10px;
+}
+
+.circles-container {
+    margin-top: 50px;
+}
+
+.circle {
+    border: 1px solid black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
